@@ -35,7 +35,9 @@
     barheadersecondary : '.bar-header-secondary',
     reports            : '#reports',
     popover            : '#popover-wrapper',
-    imageviewer        : '#preview-image'
+    imageviewer        : '#preview-image',
+    nosignature        : '#no-signature',
+    signature          : '#canvas-signature'
   };
 
   var cacheReplace = function (data, updates) {
